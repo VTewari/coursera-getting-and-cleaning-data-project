@@ -1,7 +1,7 @@
 # coursera-getting-and-cleaning-data-project
 
 This is the course project for the Getting and Cleaning Data Coursera course. The R script,  run_analysis.R , does the following:
-*loads the test & training datasets
+* loads the test & training datasets
 2. Load the activity, subject and feature info
 3. Merges the subject & activity dataframes with the test & trainings dataframes resp.
 4. Combine test & training datasets
